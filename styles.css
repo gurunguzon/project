@@ -313,14 +313,14 @@ height: 525px;
 width: 400px;
 border-radius: 4px;
 background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100% ),
-url(/section1.jpg);
+url(./section1.jpg);
 background-size: cover;
 position: relative;
 color: #fff;
 }
     .services__card:nth-child(2){
         background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100% ),
-url(/section2.jpg);
+url(./section2.jpg);
 background-size: cover;
 position: relative;
 color: #fff;
